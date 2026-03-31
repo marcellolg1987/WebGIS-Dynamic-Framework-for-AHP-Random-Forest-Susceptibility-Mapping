@@ -183,3 +183,6 @@ This project is released under the Creative Commons CC0 1.0 Universal
 
 You are free to copy, modify, distribute and use the work, even for
 commercial purposes, without asking permission.
+
+## Cite us
+La Guardia, M.; Genovese, E.; Maesano, C.; Mussumeci, G.; Barrile, V. WebGIS Dynamic Framework for AHP+Random Forest Landslide Susceptibility Mapping with Open-Source Technologies. Land 2026, 15, 356. https://doi.org/10.3390/land15030356
